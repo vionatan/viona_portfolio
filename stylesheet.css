@@ -18,6 +18,7 @@ p {
 body {
     background-color: #FDEBD3;
     margin: 0px;
+    scroll-behavior: smooth;
 }
 
 /* navigation style */
@@ -134,4 +135,5 @@ a:hover{
 
 @media only screen and (min-width: 992px) {
  
+
 }
