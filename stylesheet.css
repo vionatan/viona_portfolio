@@ -7,7 +7,7 @@
     src: url(fonts/MusticaPro-SemiBold.otf);
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -144,4 +144,5 @@ a:hover{
  
 
 }
+
 
