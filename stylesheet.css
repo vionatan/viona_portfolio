@@ -46,6 +46,10 @@ body {
     color: #F99A71;
 }
 
+#about, #projects {
+    scroll-margin-top: 100px;
+}
+
 .corner-br {
     background:
     linear-gradient(to left, #F99A71 8px, transparent 8px) 100% 100%,
@@ -144,5 +148,6 @@ a:hover{
  
 
 }
+
 
 
